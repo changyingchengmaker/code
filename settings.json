@@ -1,0 +1,25 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "python.defaultInterpreterPath": "C:\\Users\\cyc\\AppData\\Local\\Microsoft\\WindowsApps\\python3.12.exe",
+    "cmake.showOptionsMovedNotification": false,
+    "grunt.autoDetect": "on",
+    "C_Cpp.default.compilerPath": "d:\\cyc_python\\666\\1.c",
+    "[python]": {
+    
+
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.defaultColorDecorators": "never",
+        "gitlens.codeLens.symbolScopes": [
+            "!Module"
+        ],
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": "off"
+    },
+    "[c]": {
+        "editor.wordBasedSuggestions": "off",
+        "editor.semanticHighlighting.enabled": true,
+        "editor.stickyScroll.defaultModel": "foldingProviderModel",
+        "editor.suggest.insertMode": "replace"
+    },
+    "workbench.colorTheme": "GitHub Dark"
+}

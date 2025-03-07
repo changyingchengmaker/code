@@ -12,7 +12,7 @@ x, y = solution[0], solution[1]
 print(f"19英寸生产量: {round(x)} 台")
 print(f"21英寸生产量: {round(y)} 台")
 
-
+#gdfdh
 #显示中文
 plt.rcParams['font.sans-serif'] = ['SimHei']
 # 定义利润函数
